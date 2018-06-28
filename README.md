@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* https://github.com/TerkumaCode/Udacity-Pixel-Art-Maker-Project
+* https://terkumacode.github.io/Udacity-Pixel-Art-Maker-Project/
 
 ## Instructions
 
